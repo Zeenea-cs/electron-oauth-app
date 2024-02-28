@@ -1,0 +1,6 @@
+{
+  "auth0Domain": "login.prod.zeenea.app",
+  "clientId": "XXXX",
+  "apiIdentifier": "https://api.prod.zeenea.app",
+  "tenant": "internal"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "electron-test-app",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jane Doe",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.0.1"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "jwt-decode": "^4.0.0",
+    "keytar": "^7.9.0"
+  }
+}
